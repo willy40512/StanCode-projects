@@ -5,7 +5,7 @@ Watch my [DEMO VIDEOS!] (https://drive.google.com/drive/folders/1ZLa4gm-Vk61BZ-G
 
 # Project Source Codes:
 * [Baby_Names](https://github.com/willy40512/sc-projects/tree/main/stanCode_Projects/baby_names)
- * data structure 
+  * data structure 
 * [Boggle_Game_Solver](https://github.com/willy40512/sc-projects/tree/main/stanCode_Projects/boggle_game_solver)
   * recursive functions
 * [Breakout_Game](https://github.com/willy40512/sc-projects/tree/main/stanCode_Projects/break_out_game)
